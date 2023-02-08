@@ -1,0 +1,1 @@
+var slider=tns({container:".client-review-slider",items:1,controls:!1,slideBy:"page",mouseDrag:!0,loop:!0,rewind:!0,autoplay:!0,autoplayButtonOutput:!1,autoplayTimeout:3e3,navPosition:"bottom",speed:1e3,gutter:16,autoHeight:!1});
